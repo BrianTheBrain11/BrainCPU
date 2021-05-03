@@ -1,0 +1,7 @@
+total RAM 8192 bytes, 8KB, 0x00 - 0x1FFF
+
+
+0x0000 - 0x00FE - 255 bytes, boot loader
+0x00FF - 1 byte, boot loader error flag
+
+0x2000 - 0x200F - 16 bytes, input buffer
