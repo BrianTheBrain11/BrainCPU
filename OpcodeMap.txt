@@ -1,0 +1,7 @@
+0x00 - no op
+0x01 - Load A, LDA (1 param)
+0x02 - Load B, LDB (1 param)
+0x03 - Load C, LDC (2 params)
+0x04 - Load X, LDX (1 param)
+0x05 - Load Y, LDY (1 param)
+0x06 - Load Z, LDY (2 params)
